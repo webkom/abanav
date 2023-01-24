@@ -1,13 +1,13 @@
 import React from "react";
-import Navbar from "./components/navbar";
-import CardComponent from "./components/CardComponent";
-import Button from "react-bootstrap/Button";
+
+import Header from "./components/navbar";
+import Card from "./components/cards";
 
 function App() {
   return (
-    <div className="container-fluid">
+    <div className="container">
       <div className="App">
-        <Navbar></Navbar>
+        <Header />
       </div>
       <div className="card-container">
         <CardComponent title="Abakus.no">Denne kjenner du til</CardComponent>
