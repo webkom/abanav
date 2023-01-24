@@ -1,0 +1,11 @@
+.card-container {
+    width: auto;
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card-container .card {
+    margin: 20px;
+}
