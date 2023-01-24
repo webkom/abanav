@@ -1,7 +1,7 @@
 import React from "react";
+
 import Header from "./components/navbar";
 import Card from "./components/cards";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
@@ -9,8 +9,15 @@ function App() {
       <div className="App">
         <Header />
       </div>
-      <div>
-        <Card title="test" text="testing testing" />
+      <div className="card-container">
+        <CardComponent title="Abakus.no">Denne kjenner du til</CardComponent>
+        <CardComponent title="Opptak">Lykke til!</CardComponent>
+        <CardComponent title="Statutter">Lover og regler, må følges</CardComponent>
+        <CardComponent title="Status">Sjekk om Abakus.no funker</CardComponent>
+        <CardComponent title="Ny i Trondheim">Ny i byen, da MÅ du trykk her!</CardComponent>
+        <CardComponent title="Veldedighetsfest Auksjon">Drikk øl og hjelp verden</CardComponent>
+        <CardComponent title="Abakus Saker">Diskuter saker i Abakus</CardComponent>
+        <CardComponent title="Placeholder">Bla bla bla</CardComponent>
       </div>
     </div>
   );
