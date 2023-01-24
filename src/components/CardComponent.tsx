@@ -9,11 +9,11 @@ function isMobile() {
 function DesktopCard(props: {title: string, children: string}) {
     return (
         <Card style={{ width: '18rem' }}>
-          <Card.Img variant="top" src="holder.js/100px180" />
+          <Card.Img variant="top" src="/abakule.png" />
           <Card.Body>
             <Card.Title>{props.title}</Card.Title>
             <Card.Text>{props.children}</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Button variant="primary">Gå hit</Button>
           </Card.Body>
         </Card>
       );
@@ -25,7 +25,7 @@ function MobileCard(props: {title: string, children: string}) {
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
         <Card.Text>{props.children}</Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary">Gå hit</Button>
       </Card.Body>
     </Card>
   );
