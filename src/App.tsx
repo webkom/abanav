@@ -1,7 +1,5 @@
-import React from "react";
-
 import Header from "./components/navbar";
-import Card from "./components/cards";
+import CardComponent from "./components/CardComponent";
 
 function App() {
   return (
