@@ -23,7 +23,9 @@ function DesktopCard(props: {
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
         <Card.Text>{props.children}</Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button href={props.url} variant="primary">
+          Go somewhere
+        </Button>
       </Card.Body>
     </Card>
   );
@@ -40,7 +42,9 @@ function MobileCard(props: {
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
         <Card.Text>{props.children}</Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button href={props.url} variant="primary">
+          Go somewhere
+        </Button>
       </Card.Body>
     </Card>
   );
