@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Abakus.no",
+    "url": "https://abakus.no",
+    "description": "Denne kjenner du!",
+    "image": ""
+  },
+  {
+    "name": "Opptak",
+    "url": "https://opptak.abakus.no",
+    "description": "Bli engasjert!",
+    "image": ""
+  },
+  {
+    "name": "Vote",
+    "url": "https://vote.abakus.no",
+    "description": "Avstemninger",
+    "image": ""
+  },
+  {
+    "name": "Statutter",
+    "url": "https://statutter.abakus.no",
+    "description": "Regler som må følges",
+    "image": ""
+  },
+  {
+    "name": "Status",
+    "url": "https://status.abakus.no",
+    "description": "Isitdownorjustme?",
+    "image": ""
+  },
+  {
+    "name": "Nyitrondheim",
+    "url": "https://nyitrondheim.no",
+    "description": "Les her først",
+    "image": ""
+  },
+  {
+    "name": "Veldedighetsfest",
+    "url": "https://abakus.no",
+    "description": "Bare å gi!",
+    "image": ""
+  },
+  {
+    "name": "Avvik",
+    "url": "https://avvik.abakus.no",
+    "description": "Si ifra!",
+    "image": ""
+  },
+  {
+    "name": "Kontakt",
+    "url": "https://abakus.no/contact",
+    "description": "Kom i kontakt med oss!",
+    "image": ""
+  },
+  {
+    "name": "Fondet",
+    "url": "https://fondet.abakus.no",
+    "description": "Stonks?!",
+    "image": ""
+  },
+  {
+    "name": "Readme",
+    "url": "https://readme.abakus.no",
+    "description": "Les meg",
+    "image": ""
+  },
+  {
+    "name": "Wiki",
+    "url": "https://wiki.abakus.no",
+    "description": "Masse viktig info",
+    "image": ""
+  },
+  {
+    "name": "Revyen",
+    "url": "https://abakusrevyen.no",
+    "description": "Flott revy",
+    "image": ""
+  },
+  {
+    "name": "Lån konfeeransemikrofon",
+    "url": "https://docs.google.com/spreadsheets/d/1iq6oRy_66VRzaTxs3tqPoFoFnDai_-l3MKRElcrf2Rs/edit#gid=0",
+    "description": "Skriv deg opp",
+    "image": ""
+  }
+]
