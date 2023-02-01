@@ -25,7 +25,7 @@ function CardComponent(props: {
         <Card.Title>{props.title}</Card.Title>
         <Card.Text>{props.children}</Card.Text>
         <Button href={props.url} variant="primary">
-          Go somewhere
+          Ta meg hit
         </Button>
       </Card.Body>
     </Card>
