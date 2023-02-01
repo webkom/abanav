@@ -15,7 +15,7 @@ body {
 
 .card-container .card {
     margin: 20px;
-    background-color: #eee;
+    background-color: var(--white);
 }
 
 .card img {
@@ -29,10 +29,12 @@ body {
 }
 
 .card button {
-    background-color: var(--light-red);
-    color: #eee;
+    background-color: var(--white);
+    color: var(--light-red);
+    border: 2px solid var(--light-red);
 }
 
 .card button:hover {
-    background-color: var(--dark-red);
+    background-color: var(--light-red);
+    border: 2px solid var(--light-red);
 }
