@@ -6,7 +6,7 @@ function Header() {
   return (
     <Navbar bg="light" expand="lg" fixed="top">
       <Container>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand>
           <img
             src="/abakus_logo_black.png"
             width="17.5%"
