@@ -6,6 +6,12 @@
     "image": ""
   },
   {
+    "name": "Readme",
+    "url": "https://readme.abakus.no",
+    "description": "Les meg",
+    "image": "https://thumbor.abakus.no/wucpd7ufUtGhuVzpH0KRreS7_YI=/400x400/readmekule-ny_Yym6mqh.png"
+  },
+  {
     "name": "Opptak",
     "url": "https://opptak.abakus.no",
     "description": "Bli engasjert!",
@@ -16,6 +22,12 @@
     "url": "https://vote.abakus.no",
     "description": "Avstemninger",
     "image": ""
+  },
+  {
+    "name": "Revyen",
+    "url": "https://abakusrevyen.no",
+    "description": "Flott revy",
+    "image": "https://thumbor.abakus.no/vVlUfexsfCjhIsikCKkY58OzT2Y=/400x400/revy-rod_revy_logo_GVGfexY.png"
   },
   {
     "name": "Statutter",
@@ -60,21 +72,9 @@
     "image": ""
   },
   {
-    "name": "Readme",
-    "url": "https://readme.abakus.no",
-    "description": "Les meg",
-    "image": ""
-  },
-  {
     "name": "Wiki",
     "url": "https://wiki.abakus.no",
     "description": "Masse viktig info",
-    "image": ""
-  },
-  {
-    "name": "Revyen",
-    "url": "https://abakusrevyen.no",
-    "description": "Flott revy",
     "image": ""
   },
   {
