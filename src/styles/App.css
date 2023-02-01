@@ -19,19 +19,49 @@ body {
     justify-content: space-evenly;
 }
 
-.card-container .card {
+.card-container .mobileCard,
+.card-container .desktopCard {
+    width: 18rem;
     margin: 20px;
     background-color: var(--white);
+}
+
+.mobileCard {
+    border: none;
+    border-bottom: 2px solid black !important;
+    border-radius: 0;
+}
+
+.mobileCard .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.mobileCard .card-body .card-title {
+    font-size: 7vw;
+}
+
+.mobileCard .card-body .card-text {
+    font-size: 5vw;
+}
+
+.mobileCard a:focus {
+    background-color: var(--light-red);
+    border: 2px solid var(--light-red);
+}
+
+
+.desktopCard {
+    width: auto;
 }
 
 .card img {
     width: 60%;
     margin: 25px auto;
     padding: 20px;
-}
-
-.card .card-body {
-    padding-top: 0;
 }
 
 .card a {
