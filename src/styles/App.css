@@ -26,6 +26,14 @@ body {
     background-color: var(--white);
 }
 
+.desktopCard .card-body .card-title {
+    font-size: 30px;
+}
+
+.desktopCard .card-body .card-text {
+    font-size: 17.5px;
+}
+
 .mobileCard {
     border: none;
     border-bottom: 2px solid black !important;
