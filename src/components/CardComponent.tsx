@@ -11,6 +11,7 @@ function isMobile() {
   return window.innerHeight > window.innerWidth;
 }
 
+
 function DesktopCard(props: {
   title: string;
   children: string;
@@ -29,7 +30,7 @@ function DesktopCard(props: {
       </Card.Body>
     </Card>
   );
-}
+
 
 function MobileCard(props: {
   title: string;

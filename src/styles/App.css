@@ -1,3 +1,10 @@
+@import "./colors.css";
+
+body {
+    background-color: linear-gradient(0deg,#f4f4f4,#eae9e8);;
+    color: var(--font-color);
+}
+
 .card-container {
     width: auto;
     margin: 50px auto;
@@ -8,4 +15,26 @@
 
 .card-container .card {
     margin: 20px;
+    background-color: var(--white);
+}
+
+.card img {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+
+.card .card-body {
+    padding-top: 0;
+}
+
+.card button {
+    background-color: var(--white);
+    color: var(--light-red);
+    border: 2px solid var(--light-red);
+}
+
+.card button:hover {
+    background-color: var(--light-red);
+    border: 2px solid var(--light-red);
 }
