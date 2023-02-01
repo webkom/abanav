@@ -8,7 +8,7 @@ import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 
 function isMobile() {
-  return window.innerHeight > window.innerWidth ? true : false;
+  return window.innerHeight > window.innerWidth;
 }
 
 function DesktopCard(props: {
