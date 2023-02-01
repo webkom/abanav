@@ -3,9 +3,7 @@ import SiteViews from "./components/SiteViews";
 function App() {
   return (
     <div className="container">
-      <div className="App">
-        <Header />
-      </div>
+      <Header />
       <SiteViews></SiteViews>
     </div>
   );

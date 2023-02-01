@@ -30,7 +30,7 @@ function DesktopCard(props: {
       </Card.Body>
     </Card>
   );
-
+}
 
 function MobileCard(props: {
   title: string;

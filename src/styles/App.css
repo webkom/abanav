@@ -5,9 +5,15 @@ body {
     color: var(--font-color);
 }
 
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 .card-container {
     width: auto;
-    margin: 50px auto;
+    margin: 100px auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -20,7 +26,7 @@ body {
 
 .card img {
     width: 60%;
-    margin: auto;
+    margin: 25px auto;
     padding: 20px;
 }
 
@@ -28,13 +34,13 @@ body {
     padding-top: 0;
 }
 
-.card button {
+.card a {
     background-color: var(--white);
     color: var(--light-red);
     border: 2px solid var(--light-red);
 }
 
-.card button:hover {
+.card a:hover {
     background-color: var(--light-red);
     border: 2px solid var(--light-red);
 }
