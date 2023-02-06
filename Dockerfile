@@ -11,4 +11,4 @@ CMD [ "yarn","start" ]
 
 FROM pierrezemb/gostatic
 
-COPY --from=builder /app/build /srv/http
+COPY --from=builder /app/build/ /srv/http/
