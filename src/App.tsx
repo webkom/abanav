@@ -3,7 +3,7 @@ import SiteViews from "./components/SiteViews";
 import Footer from "./components/Footer";
 function App() {
   return (
-    <div className="container">
+    <div className="container-xxl">
       <Header />
       <SiteViews></SiteViews>
       <Footer />
