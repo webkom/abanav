@@ -3,15 +3,10 @@ import Navbar from "react-bootstrap/Navbar";
 
 function Header() {
   return (
-    <Navbar bg="light" expand="lg" fixed="top">
-      <Container>
+    <Navbar bg="light" fixed="top">
+      <Container fluid="xxl">
         <Navbar.Brand>
-          <img
-            src="/abakus_logo_black.png"
-            width="17.5%"
-            height="17.5%"
-            alt="Abakus Logo"
-          />
+          <img src="/abakus_logo_black.png" width="150px" alt="Abakus Logo" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
       </Container>

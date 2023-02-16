@@ -21,13 +21,37 @@ body {
 
 .card-container .mobileCard,
 .card-container .desktopCard {
-    width: 18rem;
-    margin: 20px;
+    width: 100%;
+    margin: 2%;
     background-color: var(--white);
 }
 
+@media (min-width: 376px) {
+    .card-container .mobileCard,
+    .card-container .desktopCard {
+        width: 46%;
+        margin: 2%;
+    }
+}
+
+@media (min-width: 568px) {
+    .card-container .mobileCard,
+    .card-container .desktopCard {
+        width: 29.333333%;
+        margin: 2%;
+    }
+}
+
+@media (min-width: 992px) {
+    .card-container .mobileCard,
+    .card-container .desktopCard {
+        width: 21%;
+        margin: 2%;
+    }
+}
+
 .desktopCard .card-body .card-title {
-    font-size: 30px;
+    font-size: 1.7rem;
 }
 
 .desktopCard .card-body .card-text {
