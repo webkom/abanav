@@ -36,6 +36,12 @@
     "image": ""
   },
   {
+    "name": "Saker",
+    "url": "https://github.com/abakus-ntnu/saker",
+    "description": "Abakus sitt forum for saker",
+    "image": ""
+  },
+  {
     "name": "Status",
     "url": "https://status.abakus.no",
     "description": "Isitdownorjustme?",
@@ -48,8 +54,14 @@
     "image": ""
   },
   {
+    "name": "Kvittering",
+    "url": "https://kvittering.abakus.no",
+    "description": "Generer en kvittering!",
+    "image": ""
+  },
+  {
     "name": "Veldedighetsfest",
-    "url": "https://abakus.no",
+    "url": "https://veldedighetsfest.abakus.no",
     "description": "Bare å gi!",
     "image": ""
   },
@@ -69,13 +81,19 @@
     "name": "Fondet",
     "url": "https://fondet.abakus.no",
     "description": "Stonks?!",
-    "image": ""
+    "image": "https://thumbor.abakus.no/G3l1ZZyCShJBf_b7vxw4GXaaH3g=/400x400/bedrekvalitetfondstyret01.png"
   },
   {
     "name": "Wiki",
     "url": "https://wiki.abakus.no",
     "description": "Masse viktig info",
     "image": ""
+  },
+  {
+    "name": "Webkom Utviklerblogg",
+    "url": "https://webkom.dev",
+    "description": "Skriv deg opp",
+    "image": "https://thumbor.abakus.no/S5vUWojN8GzrgKa0iSNFDzzRUik=/400x400/abakus_webkom.png"
   },
   {
     "name": "Lån konfeeransemikrofon",
