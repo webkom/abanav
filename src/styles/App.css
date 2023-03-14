@@ -60,7 +60,7 @@ body {
 
 .mobileCard {
     border: none;
-    border-bottom: 2px solid black !important;
+    border-bottom: 2px solid black;
     border-radius: 0;
 }
 
@@ -96,21 +96,54 @@ body {
     padding: 20px;
 }
 
-.card a {
-    background-color: var(--white);
-    color: var(--light-red);
-    border: 2px solid var(--light-red);
-}
 
-.card a:hover {
+/* These override bootstrap original colors for buttons */
+.btn.btn-primary {
+    color: var(--white);
     background-color: var(--light-red);
-    border: 2px solid var(--light-red);
+    border-color: var(--light-red);
 }
 
-.card a:focus, .card a:active {
-    background-color: var(--dark-red) !important;
-    border: 2px solid var(--dark-red) !important;
+.btn.btn-primary.focus,
+.btn.btn-primary:focus {
+    color: var(--white);
+    background-color: var(--dark-red);
+    border-color: var(--dark-red);
+    outline: none;
+    box-shadow: none;
 }
+
+.btn.btn-primary:hover {
+    color: var(--white);
+    background-color: var(--mid-red);
+    border-color: var(--mid-red);
+    outline: none;
+    box-shadow: none;
+}
+
+.btn.btn-primary.active,
+.btn.btn-primary:active {
+    color: var(--white);
+    background-color: var(--dark-red);
+    border-color: var(--dark-red);
+    outline: none;
+}
+
+.btn.btn-primary.active.focus,
+.btn.btn-primary.active:focus,
+.btn.btn-primary.active:hover,
+.btn.btn-primary:active.focus,
+.btn.btn-primary:active:focus,
+.btn.btn-primary:active:hover {
+    color: var(--white);
+    background-color: var(--dark-red);
+    border-color: var(--dark-red);
+    outline: none;
+    box-shadow: none;
+}
+
+
+
 
 .footer {
     background-color: rgb(248, 249, 250);
