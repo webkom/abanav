@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1100">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #b21c17;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #e21617;
+      }
+
+      .cls-5 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-6 {
+        font-size: 258.62px;
+      }
+
+      .cls-6, .cls-2 {
+        font-family: Futura-Bold, Futura;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-size: 339.18px;
+      }
+
+      .cls-8 {
+        letter-spacing: .03em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="2" y="84" width="843.38" height="843.38" rx="21.3" ry="21.3"/>
+  <rect class="cls-3" x="2" y="84" width="44.61" height="842.32" rx="14.34" ry="14.34"/>
+  <rect class="cls-3" x="5.19" y="877.46" width="840.2" height="49.92" rx="13.29" ry="13.29"/>
+  <rect class="cls-3" x="21.12" y="84" width="824.26" height="130.65" rx="21.58" ry="21.58"/>
+  <g>
+    <rect class="cls-1" x="71.62" y="351.22" width="745.5" height="406.82"/>
+    <text class="cls-6" transform="translate(177.22 652.88)"><tspan x="0" y="0">4</tspan><tspan class="cls-8" x="175.86" y="0">0</tspan><tspan class="cls-7" x="358.44" y="0">4</tspan></text>
+  </g>
+  <g>
+    <circle class="cls-1" cx="117.19" cy="150.69" r="31.61"/>
+    <circle class="cls-1" cx="214.7" cy="150.69" r="31.61"/>
+    <circle class="cls-1" cx="312.2" cy="150.69" r="31.61"/>
+  </g>
+  <polygon class="cls-5" points="973.82 629.68 727.29 629.68 604.03 843.18 727.29 1056.68 973.82 1056.68 1097.09 843.18 973.82 629.68"/>
+  <text class="cls-2" transform="translate(754 960.11)"><tspan x="0" y="0">?</tspan></text>
+</svg>

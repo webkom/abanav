@@ -1,7 +1,7 @@
 @import "./colors.css";
 
 body {
-    background-color: linear-gradient(0deg,#f4f4f4,#eae9e8);;
+    background-color: linear-gradient(0deg,#f4f4f4,#eae9e8);
     color: var(--font-color);
 }
 
@@ -51,7 +51,7 @@ body {
 }
 
 .desktopCard .card-body .card-title {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
 }
 
 .desktopCard .card-body .card-text {
