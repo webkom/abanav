@@ -3,7 +3,7 @@
     "name": "Abakus.no",
     "url": "https://abakus.no",
     "description": "Denne kjenner du!",
-    "image": ""
+    "image": "/LogoNavAbakus.png"
   },
   {
     "name": "Readme",
@@ -15,13 +15,13 @@
     "name": "Opptak",
     "url": "https://opptak.abakus.no",
     "description": "Bli engasjert!",
-    "image": ""
+    "image": "/abanav_opptak.png"
   },
   {
     "name": "Vote",
     "url": "https://vote.abakus.no",
     "description": "Avstemninger",
-    "image": ""
+    "image": "/abanav_vote.png"
   },
   {
     "name": "Revyen",
@@ -33,49 +33,49 @@
     "name": "Statutter",
     "url": "https://statutter.abakus.no",
     "description": "Regler som må følges",
-    "image": ""
+    "image": "abanav_statutter.png"
   },
   {
     "name": "Saker",
     "url": "https://github.com/abakus-ntnu/saker",
     "description": "Abakus sitt forum for saker",
-    "image": ""
+    "image": "LogoNavSaker.png"
   },
   {
     "name": "Status",
     "url": "https://status.abakus.no",
     "description": "Isitdownorjustme?",
-    "image": ""
+    "image": "LogoNavStatus2.png"
   },
   {
     "name": "Nyitrondheim",
     "url": "https://nyitrondheim.no",
     "description": "Les her først",
-    "image": ""
+    "image": "nidaroslogo-01.png"
   },
   {
     "name": "Kvittering",
     "url": "https://kvittering.abakus.no",
     "description": "Generer en kvittering!",
-    "image": ""
+    "image": "kvittering-01.png"
   },
   {
     "name": "Veldedighetsfest",
     "url": "https://veldedighetsfest.abakus.no",
     "description": "Bare å gi!",
-    "image": ""
+    "image": "veldedighetsfestlogo-01.png"
   },
   {
     "name": "Avvik",
     "url": "https://avvik.abakus.no",
     "description": "Si ifra!",
-    "image": ""
+    "image": "abanav_avvik.png"
   },
   {
     "name": "Kontakt",
     "url": "https://abakus.no/contact",
     "description": "Kom i kontakt med oss!",
-    "image": ""
+    "image": "abanav_kontakt.png"
   },
   {
     "name": "Fondet",
@@ -87,24 +87,24 @@
     "name": "Wiki",
     "url": "https://wiki.abakus.no",
     "description": "Masse viktig info",
-    "image": ""
+    "image": "abanav_wiki.png"
   },
   {
     "name": "Webkom Utviklerblogg",
     "url": "https://webkom.dev",
     "description": "Skriv deg opp",
-    "image": "https://thumbor.abakus.no/S5vUWojN8GzrgKa0iSNFDzzRUik=/400x400/abakus_webkom.png"
+    "image": "/LogoNavWebkomUtviklerblogg-01.png"
   },
   {
     "name": "Lån konfeeransemikrofon",
     "url": "https://docs.google.com/spreadsheets/d/1iq6oRy_66VRzaTxs3tqPoFoFnDai_-l3MKRElcrf2Rs/edit#gid=0",
     "description": "Skriv deg opp",
-    "image": ""
+    "image": "LogoNavLanMikrofon.png"
   },
   {
     "name": "Aba.wtf",
     "url": "https://aba.wtf",
     "description": "Du er her allerede",
-    "image": ""
+    "image": "LogoNavAbaWtf-01.png"
   }
 ]
