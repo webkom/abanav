@@ -14,12 +14,12 @@ function CardComponent(props: {
 }) {
   return (
     <Card className={isMobile() ? "mobileCard" : "desktopCard"}>
-      {isMobile() ? null : <Card.Img variant="top" src={props.image} />}
+      <Card.Img variant="top" src={props.image} />
       <Card.Body>
-        <Card.Title>{props.title}</Card.Title>
-        <Card.Text>{props.children}</Card.Text>
+        <Card.Title>{isMobile() || props.title}</Card.Title>
+        {isMobile() || <Card.Text>{props.children}</Card.Text>}
         <Button href={props.url} variant="primary">
-          Ta meg hit
+          {isMobile() ? props.title : "Ta meg hit"}
         </Button>
       </Card.Body>
     </Card>

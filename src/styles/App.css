@@ -59,6 +59,7 @@ body {
 }
 
 .mobileCard {
+    padding-bottom: 8%;
     border: none;
     border-bottom: 2px solid black;
     border-radius: 0;
@@ -69,15 +70,20 @@ body {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    
+    padding: 0 10% 10%;
 }
 
 .mobileCard .card-body .card-title {
-    font-size: 7vw;
+    font-size: 1.5rem;
 }
 
 .mobileCard .card-body .card-text {
     font-size: 5vw;
+}
+
+.mobileCard a {
+    font-size: 0.9rem;
+    font-weight: 700;
 }
 
 .mobileCard a:focus {
@@ -91,9 +97,9 @@ body {
 }
 
 .card img {
-    width: 60%;
-    margin: 25px auto;
-    padding: 20px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10%;
 }
 
 
