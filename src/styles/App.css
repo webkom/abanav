@@ -33,6 +33,11 @@ body {
   border-radius: 8px;
   padding: 30px 0;
   color: var(--grey);
+  transition: 0.3s
+}
+
+.card:hover {
+  background-color: var(--light);
 }
 
 .card img {
