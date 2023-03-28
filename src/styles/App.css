@@ -1,7 +1,79 @@
 @import "./colors.css";
 
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 body {
-    background-color: linear-gradient(0deg,#f4f4f4,#eae9e8);
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  background-color: var(--light);
+  height: 50px;
+}
+
+.navbar img {
+  height: 30px;
+  margin-left: -20px;
+}
+
+.container {
+  width: min(1200px, 100%);
+  margin: 0 auto;
+}
+
+.card {
+  border: 1px solid var(--light-grey);
+  border-radius: 8px;
+  padding: 30px 0;
+  color: var(--grey);
+}
+
+.card img {
+  width: 75%;
+  margin: auto;
+  display: block;
+}
+
+.textContainer {
+  margin: 20px 0;
+}
+
+.textContainer p {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.title {
+  font-size: 25px;
+  overflow-wrap: break-word;
+}
+
+.description {
+  font-size: 16px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 50px;
+  margin: 110px 0 50px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+/*
+body {
+    background-color: linear-gradient(0deg, #f4f4f4, #eae9e8);
     color: var(--font-color);
 }
 
@@ -27,6 +99,7 @@ body {
 }
 
 @media (min-width: 376px) {
+
     .card-container .mobileCard,
     .card-container .desktopCard {
         width: 46%;
@@ -35,6 +108,7 @@ body {
 }
 
 @media (min-width: 568px) {
+
     .card-container .mobileCard,
     .card-container .desktopCard {
         width: 29.333333%;
@@ -43,6 +117,7 @@ body {
 }
 
 @media (min-width: 992px) {
+
     .card-container .mobileCard,
     .card-container .desktopCard {
         width: 21%;
@@ -94,6 +169,7 @@ body {
 
 .desktopCard {
     width: auto;
+    cursor: pointer;
 }
 
 .card img {
@@ -103,7 +179,6 @@ body {
 }
 
 
-/* These override bootstrap original colors for buttons */
 .btn.btn-primary {
     color: var(--white);
     background-color: var(--light-red);
@@ -157,4 +232,4 @@ body {
     text-align: center;
     padding-bottom: 5px;
     padding-top: 5px;
-}
+}*/
