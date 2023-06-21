@@ -2,109 +2,91 @@
   {
     "name": "Abakus.no",
     "url": "https://abakus.no",
-    "description": "Denne kjenner du!",
-    "image": "abanav_abakus.svg"
+    "image": "ababart_abakus.svg"
   },
   {
-    "name": "Readme",
+    "name": "readme",
     "url": "https://readme.abakus.no",
-    "description": "Les meg",
     "image": "https://thumbor.abakus.no/wucpd7ufUtGhuVzpH0KRreS7_YI=/400x400/readmekule-ny_Yym6mqh.png"
   },
   {
     "name": "Opptak",
     "url": "https://opptak.abakus.no",
-    "description": "Bli engasjert!",
-    "image": "abanav_opptak.svg"
+    "image": "ababart_opptak.svg"
   },
   {
     "name": "Vote",
     "url": "https://vote.abakus.no",
-    "description": "Avstemninger",
-    "image": "abanav_vote.svg"
+    "image": "ababart_vote.svg"
   },
   {
     "name": "Revyen",
     "url": "https://abakusrevyen.no",
-    "description": "Flott revy",
     "image": "https://thumbor.abakus.no/vVlUfexsfCjhIsikCKkY58OzT2Y=/400x400/revy-rod_revy_logo_GVGfexY.png"
   },
   {
     "name": "Statutter",
     "url": "https://statutter.abakus.no",
-    "description": "Regler som må følges",
-    "image": "abanav_statutter.svg"
+    "image": "ababart_statutter.svg"
   },
   {
     "name": "Saker",
     "url": "https://github.com/abakus-ntnu/saker",
-    "description": "Abakus sitt forum for saker",
-    "image": "abanav_saker.svg"
+    "image": "ababart_saker.svg"
   },
   {
     "name": "Status",
     "url": "https://status.abakus.no",
-    "description": "Isitdownorjustme?",
-    "image": "abanav_status.svg"
+    "image": "ababart_status.svg"
   },
   {
     "name": "Ny i Trondheim",
     "url": "https://nyitrondheim.no",
-    "description": "Les her først",
-    "image": "abanav_nidaros.svg"
+    "image": "ababart_nidaros.svg"
   },
   {
     "name": "Kvittering",
     "url": "https://kvittering.abakus.no",
-    "description": "Generer en kvittering!",
-    "image": "abanav_kvittering.svg"
+    "image": "ababart_kvittering.svg"
   },
   {
     "name": "Veldedighetsfest",
     "url": "https://veldedighetsfest.abakus.no",
-    "description": "Bare å gi!",
-    "image": "abanav_veldedighetsfest.svg"
+    "image": "ababart_veldedighetsfest.svg"
   },
   {
     "name": "Avvik",
     "url": "https://avvik.abakus.no",
-    "description": "Si ifra!",
-    "image": "abanav_avvik.svg"
+    "image": "ababart_avvik.svg"
   },
   {
     "name": "Kontakt",
     "url": "https://abakus.no/contact",
-    "description": "Kom i kontakt med oss!",
-    "image": "abanav_kontakt.svg"
+    "image": "ababart_kontakt.svg"
   },
   {
     "name": "Fondet",
     "url": "https://fondet.abakus.no",
-    "description": "Stonks?!",
     "image": "https://thumbor.abakus.no/G3l1ZZyCShJBf_b7vxw4GXaaH3g=/400x400/bedrekvalitetfondstyret01.png"
   },
   {
     "name": "Wiki",
     "url": "https://wiki.abakus.no",
-    "description": "Masse viktig info",
-    "image": "abanav_wiki.svg"
+    "image": "ababart_wiki.svg"
   },
   {
-    "name": "Webkom Utviklerblogg",
+    "name": "Utviklerbloggen",
     "url": "https://webkom.dev",
-    "description": "Hold deg oppdatert",
-    "image": "abanav_webkom_utviklerblogg.svg"
+    "image": "ababart_webkom_utviklerblogg.svg"
   },
   {
-    "name": "Lån konfeeransemikrofon",
+    "name": "Lån mikrofon",
     "url": "https://docs.google.com/spreadsheets/d/1iq6oRy_66VRzaTxs3tqPoFoFnDai_-l3MKRElcrf2Rs/edit#gid=0",
-    "description": "Skriv deg opp",
-    "image": "abanav_mikrofon.svg"
+    "image": "ababart_mikrofon.svg"
   },
   {
     "name": "AbaBart",
     "url": "https://aba.wtf",
-    "description": "Du er her allerede",
-    "image": "abanav_abawtf.svg"
+    "image": "ababart_abawtf.svg"
   }
 ]
