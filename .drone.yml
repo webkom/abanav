@@ -58,7 +58,7 @@ steps:
       - build
     settings:
       registry: https://registry.webkom.dev
-      repo: registry.webkom.dev/webkom/abanav
+      repo: registry.webkom.dev/webkom/ababart
       username:
         from_secret: docker_username
       password:
