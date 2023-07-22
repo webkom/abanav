@@ -60,6 +60,12 @@ body {
   margin: 30px 0;
 }
 
+@media (max-width: 480px) {
+  .grid {
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  }
+}
+
 a {
   color: black;
   text-decoration: none;
