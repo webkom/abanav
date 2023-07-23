@@ -21,5 +21,6 @@
       "version": "detect"
     }
   },
-  "rules": {}
+  "rules": {},
+  "ignorePatterns": ["build"]
 }
