@@ -62,7 +62,7 @@
   {
     "name": "Kontakt",
     "url": "https://abakus.no/contact",
-    "image": "abanav_kontakt.svg"
+    "image": "ababart_kontakt.svg"
   },
   {
     "name": "Fondet",
@@ -83,11 +83,6 @@
     "name": "Lån mikrofon",
     "url": "https://docs.google.com/spreadsheets/d/1iq6oRy_66VRzaTxs3tqPoFoFnDai_-l3MKRElcrf2Rs/edit#gid=0",
     "image": "ababart_mikrofon.svg"
-  },
-  {
-    "name": "Kollokvier",
-    "url": "https://aba.wtf/kollokvie",
-    "image": ""
   },
   {
     "name": "Ababart",
