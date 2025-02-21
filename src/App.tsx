@@ -16,7 +16,8 @@ function App() {
       <Header />
       <div className="container">
         <div className="grid">
-          {sites.map((site, i) => (
+          {sites.sort((a,b) => a.name.localeCompare(b.name))
+          .map((site, i) => (
             <Card
               key={i}
               title={site.name}
