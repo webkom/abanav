@@ -88,5 +88,10 @@
     "name": "Drikkeleker",
     "url": "https://drikkeleker.abakus.no",
     "image": "drikkelek_medlogo_Mesa de trabajo 1.png"
+  },
+  {
+    "name": "Ababart",
+    "url": "https://aba.wtf",
+    "image": "ababart_abawtf.svg"
   }
 ]
